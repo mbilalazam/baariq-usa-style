@@ -24,7 +24,7 @@ To run the project locally:
 
 ```bash
 # Clone the repository
-git clone (https://github.com/mbilalazam/baariq-usa-style)
+git clone https://github.com/mbilalazam/baariq-usa-style
 cd baariq-usa-style
 
 # Install dependencies
